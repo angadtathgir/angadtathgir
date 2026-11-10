@@ -10,7 +10,6 @@
 <a href="https://github.com/angadtathgir/penn-roboracer-wall-follower"><img src="./cards/project-roboracer.svg" width="100%" alt="LiDAR racing node" /></a>
 <a href="https://github.com/angadtathgir/shape-detection"><img src="./cards/project-shapes.svg" width="100%" alt="Background-agnostic shape detection" /></a>
 
-<img src="./cards/private-frc.svg" width="49%" alt="FRC 7539 robot code (private)" />
-<img src="./cards/private-per.svg" width="49%" alt="Torque delivery widget" />
-<img src="./cards/private-drone.svg" width="49%" alt="Drone controller" />
-<img src="./cards/private-tokenback.svg" width="49%" alt="Tokenback (private, in progress)" />
+<img src="./cards/private-frc.svg" width="49%" alt="FRC 7539 robot code (private)" /> <img src="./cards/private-per.svg" width="49%" alt="Torque delivery widget" />
+
+<img src="./cards/private-drone.svg" width="49%" alt="Drone controller" /> <img src="./cards/private-tokenback.svg" width="49%" alt="Tokenback (private, in progress)" />
